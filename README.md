@@ -2,6 +2,8 @@
 
 A fast, interactive student grading system and table management CLI built on top of the **cDB** database library. It operates as a finite state machine (FSM) to calculate grades, compute descriptive statistics and distributions, search and filter student records, and export results.
 
+cDB github repository: https://github.com/NattakrisThongsakulpanich/cDB
+
 ---
 
 ## What It Is
