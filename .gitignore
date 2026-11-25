@@ -1,7 +1,6 @@
 # Prerequisites & Build Directories
 build/
 bin/
-lib/
 out/
 CMakeFiles/
 CMakeCache.txt
